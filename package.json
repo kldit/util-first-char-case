@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-first-char-case",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "firstCharToLowerCase and firstCharToUpperCase",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/kldit/util-first-char-case.git"
   },
-  "author": "Orlando Leite <orlando@webdefault.com.br>",
-  "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/kldit/util-first-char-case/issues"
   },

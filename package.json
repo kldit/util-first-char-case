@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-first-char-case",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "firstCharToLowerCase and firstCharToUpperCase",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,10 @@
   },
   "homepage": "https://github.com/kldit/util-first-char-case#readme",
   "author": "Orlando Leite <orlando@webdefault.com.br>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "keywords": [
+    "string",
+    "lower case",
+    "upper case"
+  ]
 }

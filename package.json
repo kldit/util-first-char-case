@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-first-char-case",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "firstCharToLowerCase and firstCharToUpperCase",
   "main": "index.js",
   "scripts": {
